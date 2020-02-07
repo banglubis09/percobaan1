@@ -17,59 +17,59 @@
 <!--        android:layout_marginTop="50dp"-->
 <!--        />-->
 
-<!--    <TextView-->
-<!--        android:gravity="center_horizontal"-->
-<!--        android:layout_marginTop="50sp"-->
-<!--        android:id="@+id/txt1"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/panjang"-->
-<!--        android:textColor="@color/white"-->
-<!--        android:textSize="50sp"-->
-<!--       />-->
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_marginTop="50sp"
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/panjang"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+       />
 
-<!--    <Button-->
-<!--        android:id="@+id/btn1"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="100dp"-->
-<!--        android:text="Klik Me"-->
-<!--        android:background="@color/white"-->
-<!--        android:textColor="@color/black"-->
-<!--        android:gravity="center"-->
-<!--        android:textAllCaps="false"-->
-<!--        />-->
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginLeft="40dp"
-            android:layout_marginTop="50dp"
-            android:textSize="40dp"
-            android:text="Welcome !"
-            android:textColor="@color/white"
-            android:fontFamily="@font/newroman"/>
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Klik Me"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:textAllCaps="false"
+        />
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginStart="30dp"-->
+<!--            android:layout_marginLeft="40dp"-->
+<!--            android:layout_marginTop="50dp"-->
+<!--            android:textSize="40dp"-->
+<!--            android:text="Welcome !"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:fontFamily="@font/newroman"/>-->
 
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Nice to see you again"
-            android:textColor="@color/white"
-            android:layout_marginStart="30dp"
-            android:textSize="18dp"
-            android:fontFamily="@font/comfromtaregular"/>
+<!--        <TextView-->
+<!--            android:id="@+id/textView"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Nice to see you again"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_marginStart="30dp"-->
+<!--            android:textSize="18dp"-->
+<!--            android:fontFamily="@font/comfromtaregular"/>-->
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="120dp"
-            android:layout_height="40dp"
-            android:text="Button"
-            android:layout_marginTop="8dp"
-            android:background="@color/pageawal"
-            android:textColor="@color/white"
-            android:layout_marginStart="30dp"
-            android:layout_marginBottom="10dp"
-            android:shadowRadius=""/>
+<!--        <Button-->
+<!--            android:id="@+id/button"-->
+<!--            android:layout_width="120dp"-->
+<!--            android:layout_height="40dp"-->
+<!--            android:text="Button"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            android:background="@color/pageawal"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_marginStart="30dp"-->
+<!--            android:layout_marginBottom="10dp"-->
+<!--            android:shadowRadius=""/>-->
 
 </LinearLayout>
