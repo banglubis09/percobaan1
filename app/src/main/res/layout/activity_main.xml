@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="@string/panjang"
         android:textColor="@color/white"
-        android:textSize="50sp"
+        android:textSize="55dp"
        />
 
     <Button
